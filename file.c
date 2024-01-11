@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(void){
-	cout<<"first commit file.c"<<endl;
+	cout<<"second commit file.c"<<endl;
 
 
 	return 0;
